@@ -1,0 +1,3 @@
+public enum Options {
+    ADD, REMOVE, EDIT, FIND, SHOW_ALL, EMPTY_ZOO, STOCK_ZOO, FIND_TYPE
+}
